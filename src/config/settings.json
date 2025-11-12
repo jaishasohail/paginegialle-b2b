@@ -1,0 +1,10 @@
+{
+  "concurrency": 8,
+  "proxy": null,
+  "request_headers": {
+    "Pragma": "no-cache",
+    "Upgrade-Insecure-Requests": "1"
+  },
+  "max_pages_per_combo": 50,
+  "sleep_between_requests_ms": 150
+}
