@@ -1,0 +1,27 @@
+[
+  {
+    "businessName": "Trattoria Roma",
+    "address": "Via del Corso 50, Roma",
+    "phoneNumber": "+39 064321678",
+    "website": "https://www.trattoriaroma.it",
+    "email": "info@trattoriaroma.it",
+    "rating": 4.6,
+    "reviews_count": 128,
+    "whatsapp": "+39 3456789123",
+    "facebook": "https://facebook.com/trattoriaroma",
+    "instagram": "https://instagram.com/trattoriaroma",
+    "twitter": null,
+    "latitude": "41.9028",
+    "longitude": "12.4964",
+    "zip_code": "00186",
+    "city": "Roma",
+    "province": "RM",
+    "opening_hours": "{\"monday\":\"09:00-22:00\"}",
+    "description": "Authentic Roman cuisine in the city center.",
+    "category": "ristoranti",
+    "scraped_city": "roma",
+    "unique_id": "pg-roma-ristoranti-001",
+    "timestamp": "2025-11-12T10:30:00Z",
+    "source_url": "https://www.paginegialle.it/ricerca/ristoranti/roma"
+  }
+]
