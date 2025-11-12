@@ -1,0 +1,6 @@
+{
+  "categories": ["ristoranti", "fabbro"],
+  "cities": ["roma", "milano"],
+  "filterByEmail": false,
+  "filterByPhone": false
+}
